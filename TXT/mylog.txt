@@ -12,3 +12,4 @@ ZCZC W00 60 L05 Quiz related including studying
 ZCZC W00 1 L41 TXT/mylog.txt related.
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 60 L11 Assignment #01
+ZCZC W01 90 L09 Assignment in General
