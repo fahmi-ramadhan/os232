@@ -12,11 +12,11 @@ h1{
   color: #b5e853;
 }
 a {
-  color: #a0a0a0;
+  color: #63c0f5;
   text-decoration: underline;
 }
 a:hover {
-  color: white;
+  color: #c5e1f5;
 }
 </style>
 
