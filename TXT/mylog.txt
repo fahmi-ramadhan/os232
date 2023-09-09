@@ -16,3 +16,4 @@ ZCZC W01 90 L09 Assignment in General
 ZCZC W01 25 L07 Demo related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 100 L05 Quiz related including studying
+ZCZC W01 30 L04 GitHub Pages related
