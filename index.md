@@ -9,7 +9,7 @@ h1{
   color: #b5e853;
 }
 a {
-  color: #2596be;
+  color: #63c0f5;
   text-decoration: underline;
 }
 a:hover {
