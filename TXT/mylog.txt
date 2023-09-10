@@ -17,3 +17,6 @@ ZCZC W01 25 L07 Demo related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 100 L05 Quiz related including studying
 ZCZC W01 30 L04 GitHub Pages related
+ZCZC W01 80 L32 YouTube: watching OS related topics (Bash Scripting Tutorial for Beginners)
+ZCZC W01 30 L24 Scripting in general.
+ZCZC W01 3 L41 TXT/mylog.txt related.
