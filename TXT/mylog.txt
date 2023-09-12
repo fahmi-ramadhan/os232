@@ -22,3 +22,4 @@ ZCZC W01 30 L24 Scripting in general.
 ZCZC W01 3 L41 TXT/mylog.txt related.
 ZCZC W02 20 L12 Assignment #02
 ZCZC W02 10 L15 Assignment #05
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
