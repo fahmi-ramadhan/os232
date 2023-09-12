@@ -20,3 +20,4 @@ ZCZC W01 30 L04 GitHub Pages related
 ZCZC W01 80 L32 YouTube: watching OS related topics (Bash Scripting Tutorial for Beginners)
 ZCZC W01 30 L24 Scripting in general.
 ZCZC W01 3 L41 TXT/mylog.txt related.
+ZCZC W02 20 L12 Assignment #02
