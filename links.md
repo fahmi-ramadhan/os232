@@ -8,7 +8,7 @@ html, *, body {
   color: white;
   font-family: monospace, courier;
 }
-h1{
+h1,h2{
   color: #b5e853;
 }
 a {
@@ -22,6 +22,8 @@ a:hover {
 
 # LINKS
 
+## WEEK 01
+
 1. [Debuggex: Online visual regex tester](https://www.debuggex.com/)<br>
 Debuggex is an interactive tool for debugging regular expressions (regex).
 It allows you to enter your regex patterns and provides a visual representation of how they match text.
@@ -33,3 +35,10 @@ The link provides examples of some of the essential awk commands.
 
 3. [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=WjRdk4IZRvxjRoup)<br>
 A beginner friendly tutorial about Bash Scripting. It covers fundamental concepts such as basic commands, variables, conditionals, loops, functions, and more.
+
+## WEEK 02
+
+4. [C cheatsheet](https://quickref.me/c.html)<br>
+C quick reference cheat sheet that provides basic syntax and methods. It is interesting to me because of its quick accessibility and concise information,
+making it valuable for beginners like me seeking a handy resource for C language essentials.
+
