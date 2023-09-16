@@ -28,3 +28,4 @@ ZCZC W02 30 L21 Trying something (previous midterm problems)
 ZCZC W02 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 10 L13 Assignment #03
 ZCZC W02 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 80 L05 Quiz related including studying
