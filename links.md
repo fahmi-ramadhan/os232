@@ -43,4 +43,4 @@ C quick reference cheat sheet that provides basic syntax and methods. It is inte
 making it valuable for beginners like me seeking a handy resource for C language essentials.
 
 5. [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=BNX2ukur-7Zoq5DY)<br>
-A really good cyber security course that for beginner. It covers various topics such as cyber security terminology, password and hash function, types of malware, and more.
+A really good cyber security course for beginners. It covers various topics such as cyber security terminology, password and hash function, types of malware, and more.
