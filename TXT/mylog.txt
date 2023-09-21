@@ -33,3 +33,5 @@ ZCZC W02 15 L09 Assignment in General
 ZCZC W02 60 L64 Helping a friend (OS related problem)
 ZCZC W03 40 L07 Demo related
 ZCZC W03 30 L09 Assignment in General
+ZCZC W03 60 L70 Studying for other courses.
+ZCZC W03 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
