@@ -35,3 +35,6 @@ ZCZC W03 40 L07 Demo related
 ZCZC W03 30 L09 Assignment in General
 ZCZC W03 60 L70 Studying for other courses.
 ZCZC W03 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 70 L64 Helping a friend (OS related problem)
