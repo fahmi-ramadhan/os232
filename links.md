@@ -44,3 +44,14 @@ making it valuable for beginners like me seeking a handy resource for C language
 
 5. [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=BNX2ukur-7Zoq5DY)<br>
 A really good cyber security course for beginners. It covers various topics such as cyber security terminology, password and hash function, types of malware, and more.
+
+## WEEK 03
+
+6. [File Systems in Operating System](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
+This article provides an overview of file systems in operating systems, types of computer file systems, how they work, what does it mean to mount a file system, and more.
+
+7. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+This article discusses three primary file allocation methods used in computer storage systems: Contiguous Allocation, Linked Allocation, and Indexed Allocation.
+
+8. [The Linux Filesystem Explained | How Each Directory is Used](https://youtu.be/P0QZnAnsQ4c?si=tBHokisAdSIErisN)<br>
+This video will give you an overview of the top-level directories found on most Linux systems. It'll go over how some of the common top-level directories are used and what are their specific purposes within Linux.
