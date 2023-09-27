@@ -55,3 +55,8 @@ This article discusses three primary file allocation methods used in computer st
 
 8. [The Linux Filesystem Explained | How Each Directory is Used](https://youtu.be/P0QZnAnsQ4c?si=tBHokisAdSIErisN)<br>
 This video will give you an overview of the top-level directories found on most Linux systems. It'll go over how some of the common top-level directories are used and what are their specific purposes within Linux.
+
+## WEEK 04
+
+9. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/#google_vignette)
+This article provides a tutorial of how to use SCP command to copy a local file to a remote system, a remote file to a local system, and copy a file between two remote systems. 
