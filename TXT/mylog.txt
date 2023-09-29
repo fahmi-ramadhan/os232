@@ -43,3 +43,4 @@ ZCZC W03 14 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 10 L09 Assignment in General
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 60 L09 Assignment in General
+ZCZC W04 120 L70 Studying for other courses.
