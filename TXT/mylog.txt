@@ -44,3 +44,6 @@ ZCZC W03 10 L09 Assignment in General
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 60 L09 Assignment in General
 ZCZC W04 120 L70 Studying for other courses.
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 10 L04 Github Pages related
+ZCZC W04 5 L41 TXT/mylog.txt related.
