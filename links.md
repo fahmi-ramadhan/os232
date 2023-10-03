@@ -58,8 +58,8 @@ This video will give you an overview of the top-level directories found on most 
 
 ## WEEK 04
 
-9. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/#google_vignette)
+9. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/#google_vignette)<br>
 This article provides a tutorial of how to use SCP command to copy a local file to a remote system, a remote file to a local system, and copy a file between two remote systems. 
 
-10. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+10. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 This article covers various memory management topics: what is main memory and memory management, why memory management is required, logical address space and physial address space, static and dynamic loading and linking, swapping, contiguous memory allocation, and more.
