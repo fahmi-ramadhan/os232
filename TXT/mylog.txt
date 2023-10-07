@@ -47,3 +47,8 @@ ZCZC W04 120 L70 Studying for other courses.
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 10 L04 Github Pages related
 ZCZC W04 5 L41 TXT/mylog.txt related.
+ZCZC W05 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 60 L07 Demo related
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 420 L71 Working (General)
