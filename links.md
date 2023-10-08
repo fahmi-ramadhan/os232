@@ -63,3 +63,8 @@ This article provides a tutorial of how to use SCP command to copy a local file 
 
 10. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 This article covers various memory management topics: what is main memory and memory management, why memory management is required, logical address space and physial address space, static and dynamic loading and linking, swapping, contiguous memory allocation, and more.
+
+## WEEK 05
+
+11. [Paging & Page Replacement Algorithms in OS](https://youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&si=-w81shv3xIyPeLlH)<br>
+This YouTube playlist will teach you the concept of paging, page faults, and everything around this paging memory management scheme, including page replacement algorithms.
