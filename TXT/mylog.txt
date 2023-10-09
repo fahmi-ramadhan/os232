@@ -53,3 +53,4 @@ ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 60 L05 Quiz related including studying
 ZCZC W05 420 L71 Working (General)
 ZCZC W05 60 L09 Assignment in General
+ZCZC W05 120 L70 Studying for other courses.
