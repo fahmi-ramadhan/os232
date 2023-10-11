@@ -68,3 +68,5 @@ This article covers various memory management topics: what is main memory and me
 
 11. [Paging & Page Replacement Algorithms in OS](https://youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&si=-w81shv3xIyPeLlH)<br>
 This YouTube playlist will teach you the concept of paging, page faults, and everything around this paging memory management scheme, including page replacement algorithms.
+
+12. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>Another great source to learn more about page replacement algorithms in OS. This article is perfect for those who prefer reading over watching a video.

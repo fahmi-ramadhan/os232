@@ -55,3 +55,5 @@ ZCZC W05 420 L71 Working (General)
 ZCZC W05 60 L09 Assignment in General
 ZCZC W05 120 L70 Studying for other courses.
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L04 GitHub Pages related
