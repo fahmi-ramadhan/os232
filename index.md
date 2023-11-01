@@ -19,4 +19,4 @@ a:hover {
 
 # OS232
 
-|| [TARBALL]() || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/fahmi-ramadhan/os232/) ||
+|| [TARBALL](https://os.vlsm.org/Log/fahmi-ramadhan.tar.xz.txt) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/fahmi-ramadhan/os232/) ||
