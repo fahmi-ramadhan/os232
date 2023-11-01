@@ -70,3 +70,8 @@ This article covers various memory management topics: what is main memory and me
 This YouTube playlist will teach you the concept of paging, page faults, and everything around this paging memory management scheme, including page replacement algorithms.
 
 12. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>Another great source to learn more about page replacement algorithms in OS. This article is perfect for those who prefer reading over watching a video.
+
+## WEEK 06
+
+13. [The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)<br>
+This is a great YouTube video that will teach you the basic concept of fork() function in C. Also, if you go to the featured playlist of this video, you can learn more about Unix Processes in C, e.g. wait() function, exec() function, pipes, and more.
