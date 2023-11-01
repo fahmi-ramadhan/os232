@@ -61,3 +61,5 @@ ZCZC W06 180 L71 Working (General)
 ZCZC W06 300 L70 Studying for other courses.
 ZCZC W06 40 L07 Demo related
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 10 L09 Assignment in General
