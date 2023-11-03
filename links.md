@@ -73,5 +73,8 @@ This YouTube playlist will teach you the concept of paging, page faults, and eve
 
 ## WEEK 06
 
-13. [The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)<br>
+13. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+This article discusses the fundamental concepts related to operating system processes. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
+
+14. [The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)<br>
 This is a great YouTube video that will teach you the basic concept of fork() function in C. Also, if you go to the featured playlist of this video, you can learn more about Unix Processes in C, e.g. wait() function, exec() function, pipes, and more.
