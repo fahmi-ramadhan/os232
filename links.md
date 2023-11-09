@@ -78,3 +78,17 @@ This article discusses the fundamental concepts related to operating system proc
 
 14. [The fork() function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)<br>
 This is a great YouTube video that will teach you the basic concept of fork() function in C. Also, if you go to the featured playlist of this video, you can learn more about Unix Processes in C, e.g. wait() function, exec() function, pipes, and more.
+
+## WEEK 07
+
+15. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+This article provides a comprehensive overview of process synchronization in multi-process systems. It discusses the importance of coordinating processes to prevent issues like race conditions and data inconsistensies.
+
+16. [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
+This article delves into Peterson's Algorithm, a solution for achieving mutual exclusion between two processes in the context of the producer-consumer problem. It explains the algorithm's inner workings, including the use of shared memory and flags to ensure that one process waits for the other to finish its critical section.
+
+17. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This article provides an explanation of semaphores in process synchronization. Semaphores are introduced as variables used to coordinate multiple processes in a computer system, emphasizing their role in enforcing mutual exclusion, avoiding race conditions, and implementing synchronization. The article covers the two essential semaphore operations, "wait" (P) and "signal" (V), and their impact on process synchronization.
+
+18. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+This article delves into the concept of deadlock in operating systems. The article offers examples of deadlock scenarios, such as processes holding resources and waiting for each other, and introduces the four necessary conditions for a deadlock to occur: mutual exclusion, hold and wait, no preemption, and circular wait. After reading the article, you can learn more about Deadlocks in the following article, such as conditions for deadlock in OS, Banker's Algorithm, how to handle deadlocks, and more.

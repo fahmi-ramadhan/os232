@@ -70,3 +70,6 @@ ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 60 L09 Assignment in General
 ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 20 L07 Demo related
+ZCZC W07 30 L09 Assignment in General
