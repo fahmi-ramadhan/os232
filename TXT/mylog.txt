@@ -79,3 +79,4 @@ ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 240 L09 Assignment in General
 ZCZC W08 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 30 L09 Assignment in General
